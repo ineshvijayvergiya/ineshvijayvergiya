@@ -89,5 +89,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=100&section=footer" />
+  <img src="https://count.getloli.com/get/@ineshvijayvergiya?theme=asoul" alt="Moe Counter" />
 </p>
