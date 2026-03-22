@@ -26,10 +26,6 @@
   </i>
 </p>
 
-<p align="center">
-  <img src="https://count.getloli.com/get/@ineshvijayvergiya?theme=asoul" />
-</p>
-
 <div align="center">
   <a href="mailto:ineshvijay.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -40,6 +36,7 @@
   <a href="https://x.com/Inesh_vijay23">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
+  <img src="https://count.getloli.com/get/@ineshvijayvergiya?theme=asoul" alt="Moe Counter" />
 </div>
 
 ---
@@ -80,10 +77,6 @@
 - 🔭 Working on: **Vendixo Marketplace**
 - 🌱 Learning: **Cloud Architecture & Microservices**
 - 💬 Ask me about: **React, Node.js, and UX/UI design**
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ineshvijayvergiya&icon=0&color=0" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=100&section=footer" />
