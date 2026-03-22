@@ -55,34 +55,31 @@
 
 ---
 
-### 🚀 Key Projects
-- 🛒 **[Vendixo](https://vendixo.vercel.app/)** — A full-featured E-commerce store with Firebase & high-performance UI.
-- 📈 **TradePro Simulator** — Real-time trading simulation platform.
-- 🏗️ **Mentora** — Student performance prediction system using AI.
+### 🚀 Featured Projects
+- 🛒 **[Vendixo](https://vendixo.vercel.app/)** — A full-featured E-commerce store with Firebase integration.
+- 📉 **TradePro Simulator** — Professional trading interface for stock simulation.
+- 🏗️ **Mentora** — Student performance prediction application using MERN.
 
 ---
 
 ### 📊 Vital Signs (Live Metrics)
 
 <p align="center">
-  <a href="https://github.com/ineshvijayvergiya">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ineshvijayvergiya&theme=transparent" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ineshvijayvergiya&show_icons=true&theme=transparent&hide_border=true&title_color=00ffff&icon_color=00ffff&text_color=ffffff" alt="Inesh's GitHub stats" />
   <br />
-  <a href="https://github.com/ineshvijayvergiya">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ineshvijayvergiya&theme=transparent&hide_border=true" />
-  </a>
-  <a href="https://github.com/ineshvijayvergiya">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ineshvijayvergiya&layout=compact&theme=transparent&hide_border=true" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ineshvijayvergiya&theme=transparent&hide_border=true&stroke=00ffff&ring=00ffff&fire=00ffff&currStreakLabel=00ffff" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ineshvijayvergiya&layout=compact&theme=transparent&hide_border=true&title_color=00ffff&text_color=ffffff" alt="Top Languages" />
 </p>
 
 ---
 
-### 📬 Let's Collaborate
-- 🔭 I’m currently working on **Vendixo E-commerce**.
-- 🌱 I’m currently learning **Advanced Cloud Deployments**.
-- 💬 Ask me about **MERN Stack or UI Designs**.
+### 📬 Let's Connect
+- 🔭 Working on: **Vendixo Marketplace**
+- 🌱 Learning: **Cloud Architecture & Microservices**
+- 💬 Ask me about: **React, Node.js, and UX/UI design**
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=ineshvijayvergiya&icon=0&color=0" />
