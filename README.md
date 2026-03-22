@@ -85,9 +85,9 @@
 - 💬 Ask me about **MERN Stack or UI Designs**.
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ineshvijayvergiya&icon=0&color=0" />
+  <img src="https://count.getloli.com/get/@ineshvijayvergiya?theme=asoul" alt="Moe Counter" />
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@ineshvijayvergiya?theme=asoul" alt="Moe Counter" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=100&section=footer" />
 </p>
