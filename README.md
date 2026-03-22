@@ -66,7 +66,7 @@
 
 <p align="center">
   <a href="https://github.com/ineshvijayvergiya">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ineshvijayvergiya&theme=transparent" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ineshvijayvergiya&theme=transparent" />
   </a>
   <br />
   <a href="https://github.com/ineshvijayvergiya">
