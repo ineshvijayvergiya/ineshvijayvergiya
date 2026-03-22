@@ -85,7 +85,7 @@
 - 💬 Ask me about **MERN Stack or UI Designs**.
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ineshvijayvergiya&icon=0&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=ineshvijayvergiya&color=00ffff&style=for-the-badge" />
 </p>
 
 <p align="center">
